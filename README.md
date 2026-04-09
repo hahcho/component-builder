@@ -4,7 +4,10 @@ A vibe-coded, AI-powered design tool that generates Angular component libraries 
 
 ![Component gallery showing generated components with live previews](docs/screenshot-components.png)
 
-<video src="https://github.com/user-attachments/assets/52edc630-0df8-4b7f-a8b5-4e28499732a3" controls width="100%" title="Component Builder demo"></video>
+
+
+https://github.com/user-attachments/assets/3cb05e80-e742-41ba-9975-55fd751bd77b
+
 
 ---
 
